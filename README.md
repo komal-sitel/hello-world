@@ -1,2 +1,2 @@
 # hello-world
-to siplay hello world message
+the intent of this code is to learn github
